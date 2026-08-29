@@ -28,6 +28,25 @@ I wanted a more structured way to consolidate and analyze investment data across
 What started as a portfolio-tracking project gradually developed into a broader financial data application, with a relational database, automated market-data collection, transaction validation, cash reconciliation and risk analytics.
 
 The project has also been a practical way for me to explore how financial workflows can be made more reliable, repeatable and less dependent on manual processing.
+
+## Screenshots
+
+### Dashboard overview
+
+![Dashboard overview](screenshots/dashboard-overview.png)
+
+### Portfolio analytics
+
+![Portfolio analytics](screenshots/portfolio-analytics.png)
+
+### Portfolio allocation and gain analysis
+
+![Portfolio allocation](screenshots/portfolio-allocation.png)
+
+### Portfolio exposure
+
+![Portfolio exposure](screenshots/portfolio-exposure.png)
+
 ## Technology
 
 - **Python**
