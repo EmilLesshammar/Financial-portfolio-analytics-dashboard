@@ -1,0 +1,2 @@
+id,asset_id,account_id,payment_date,dividend_per_share,shares_held,currency,fx_rate_to_sek,source
+1,1,1,2026-07-01,3.12500000,80.00000000,SEK,1.0,SAMPLE

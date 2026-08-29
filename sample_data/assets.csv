@@ -1,0 +1,4 @@
+id,ticker,name,asset_type,currency,market_symbol,isin,sector,country
+1,NORDICX,Nordic Industrial Demo,Stock,SEK,,,Industrials,Sweden
+2,GLOBALX,Global Equity Demo,ETF,USD,,,Fund / ETF,Global
+3,BONDX,Swedish Bond Demo,Fund,SEK,,,Fixed Income,Sweden

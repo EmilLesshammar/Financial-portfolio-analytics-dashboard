@@ -1,0 +1,6 @@
+# Python 3.11+ (tomllib is part of the standard library)
+streamlit>=1.32
+pandas>=2.1
+plotly>=5.18
+yfinance>=0.2.40
+mysql-connector-python>=8.3
