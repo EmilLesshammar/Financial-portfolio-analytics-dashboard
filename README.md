@@ -33,19 +33,19 @@ The project has also been a practical way for me to explore how financial workfl
 
 ### Dashboard overview
 
-![Dashboard overview](screenshots/dashboard-overview.png)
+![Dashboard overview](Dashboard%20Overview.png)
 
 ### Portfolio analytics
 
-![Portfolio analytics](screenshots/portfolio-analytics.png)
+![Portfolio analytics](Portfolio%20Analytics.png)
 
-### Portfolio allocation and gain analysis
+### Portfolio allocation and performance
 
-![Portfolio allocation](screenshots/portfolio-allocation.png)
+![Portfolio allocation](Portfolio%20Allocation.png)
 
 ### Portfolio exposure
 
-![Portfolio exposure](screenshots/portfolio-exposure.png)
+![Portfolio exposure](Portfolio%20Exposure.png)
 
 ## Technology
 
